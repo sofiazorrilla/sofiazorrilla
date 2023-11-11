@@ -2,7 +2,7 @@
   <b>Sofía Zorrilla Azcué</b>
 </h1>
 
-Soy una persona dedicada y entusiasta. Me gusta mucho aprender cosas nuevas, especialmente acerca de análisis de datos, programación y la evolución de los encinos. Actualmente soy una estudiante de maestria. Estoy investigando la potencial maladaptación ante el cambio climático de las poblaciones de *Q. insignis*, un encino de México y Centro América. Además soy asistente de investigación en el Laboratorio de Biología Neotropical en la ENES Morelia en el que trabajamos en proyectos de investigación sobre la filogeografía de encinos y en un proyecto de monitoreo de flora y fauna de Guanajuato, especialmente recopilando y validando información acerca de las especies de encino en el estado. 
+Soy una persona dedicada y entusiasta que disfruta de hacer investigación, analizar datos y salir a campo. Me gusta mucho aprender cosas nuevas, especialmente acerca de análisis de datos, programación y la evolución de los encinos. Actualmente soy una estudiante de maestria. Estoy investigando la potencial maladaptación ante el cambio climático de las poblaciones de *Q. insignis*, un encino de México y Centro América. Además soy asistente de investigación en el Laboratorio de Biología Neotropical en la ENES Morelia en el que trabajamos en proyectos de investigación sobre la filogeografía de encinos y en un proyecto de monitoreo de flora y fauna de Guanajuato, especialmente recopilando y validando información acerca de las especies de encino en el estado. 
 
 
 <h3 align="left">
