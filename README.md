@@ -2,7 +2,8 @@
   <b>Sofía Zorrilla Azcué</b>
 </h1>
 
-Soy 
+Soy una persona dedicada y entusiasta. Me gusta mucho aprender cosas nuevas, especialmente acerca de análisis de datos, programación y la evolución de los encinos. Actualmente soy una estudiante de maestria. Estoy investigando la potencial maladaptación ante el cambio climático de las poblaciones de *Q. insignis*, un encino de México y Centro América. Además soy asistente de investigación en el Laboratorio de Biología Neotropical en la ENES Morelia en el que trabajamos en proyectos de investigación sobre la filogeografía de encinos y en un proyecto de monitoreo de flora y fauna de Guanajuato, especialmente recopilando y validando información acerca de las especies de encino en el estado. 
+
 
 <h3 align="left">
   <b>Experiencia</b>
@@ -12,9 +13,9 @@ Soy
   - Proyecto de filogeografía de *Quercus syctophylla*, *Q. sideroxyla* y *Q. hypoleucoides*
   - Monitoreo de biodiversidad de flora y fauna de Guanajuato
 - 2021 - 2023: Maestría en Ciencias Biológicas
-  - Efecto de la heterogeneidad ambiental sobre las frecuencias alélicas de regiones codificantes de Quercus insignis Martens & Galeotti 1843
+  - Efecto de la heterogeneidad ambiental sobre las frecuencias alélicas de regiones codificantes de *Quercus insignis* Martens & Galeotti 1843
 - 2018 - 2020: Licenciatura en ecología
-  - [The DNA history of a lonely oak: Quercus humboldtii phylogeography in the Colombian Andes](https://doi.org/10.1002/ece3.7529)
+  - [The DNA history of a lonely oak: *Quercus humboldtii* phylogeography in the Colombian Andes](https://doi.org/10.1002/ece3.7529)
   
 <h3 align="left">
   <b>Comunidades</b>
