@@ -8,7 +8,9 @@ Soy una persona dedicada y entusiasta que disfruta de hacer investigación, anal
 <h3 align="left">
   <b>Experiencia</b>
 </h3>
-
+- 2024 - Asistente de investigación
+  - Monitoreo de biodiversidad de flora y fauna de Guanajuato, responsable del monitoreo de Encinos en Guanajuato
+  - Encinos (Quercus: Fagaceae) de México y Centroamérica- Sistematización de información de especímenes de herbario en plataforma de Symbiota
 - 2023 - Asistente de investigación 
   - Proyecto de filogeografía de *Quercus syctophylla*, *Q. sideroxyla* y *Q. hypoleucoides*
   - Monitoreo de biodiversidad de flora y fauna de Guanajuato
